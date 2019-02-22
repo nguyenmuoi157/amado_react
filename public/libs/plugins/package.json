@@ -1,0 +1,21 @@
+{
+  "name": "plugins",
+  "version": "1.0.0",
+  "description": {
+  	
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaisela/plugins.git"
+  },
+  "author": "zhoujiaohua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaisela/plugins/issues"
+  },
+  "homepage": "https://github.com/kaisela/plugins#readme"
+}

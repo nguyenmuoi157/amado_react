@@ -1,0 +1,14 @@
+{
+  "name": "plugins",
+  "homepage": "https://github.com/kaisela/plugins",
+  "_release": "179a9cfaad",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "179a9cfaada7a5c296012227819c876ad9a33c0b"
+  },
+  "_source": "https://github.com/kaisela/plugins.git",
+  "_target": "*",
+  "_originalSource": "plugins",
+  "_direct": true
+}
